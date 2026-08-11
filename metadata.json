@@ -1,0 +1,5 @@
+{
+  "name": "Weather & Environmental Dashboard",
+  "description": "A comprehensive real-time dashboard for weather, air quality, and environmental alerts using open data APIs.",
+  "requestFramePermissions": ["geolocation"]
+}
